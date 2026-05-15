@@ -13,7 +13,7 @@
   
   <!-- Creative Slogan -->
   <p align="center">
-    <em style="color: #A0AEC0; font-family: 'Inter', sans-serif; font-size: 16px;">“Physics explains reality. Programming lets us redesign it.”</em>
+    <em style="color: #A0AEC0; font-family: 'Inter', sans-serif; font-size: 16px;">“Code is my art, Physics is my inspiration.”</em>
   </p>
 
 </div>
@@ -66,12 +66,15 @@
 
 ### 🛠️ **TECH STACK**
 
-#### 🔹 **Languages**
+#### 🔹 **Programming Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 #### 🔹 **Frontend**
