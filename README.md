@@ -24,7 +24,7 @@
 
 <p align="left" style="font-family: 'Inter', sans-serif; color: #C9D1D9;">
   Welcome to my digital universe! I am a <strong>Computer Science student</strong> with a relentless builder mindset and a deep curiosity for understanding how the universe works—both physically and computationally.<br><br>
-  🌌 I am deeply passionate about <strong>AI, robotics, physics, and aerospace</strong>.<br>
+  🌌 I am deeply passionate about <strong>AI, robotics, and physics</strong>.<br>
   🧮 I love diving into <strong>mathematics, algorithms, and complex problem-solving</strong>.<br>
   💡 Driven by the infinite possibilities of <strong>futuristic technology and innovation</strong>, I constantly seek to bridge the gap between theoretical science and practical software engineering.
 </p>
