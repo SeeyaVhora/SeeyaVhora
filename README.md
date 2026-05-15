@@ -132,13 +132,7 @@
 ### 📈 **MISSION ANALYTICS (SYSTEM PERFORMANCE)**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeeyaVhora&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="80%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeeyaVhora&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeeyaVhora&bg_color=0D1117&color=00F0FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
