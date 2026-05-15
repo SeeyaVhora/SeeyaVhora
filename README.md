@@ -57,7 +57,6 @@
   <tr>
     <td colspan="2" align="center" style="padding: 20px; border: 1px solid #30363D;">
       <h3 style="color: #F2CC60;">🔬 Physics & Mathematical Concepts</h3>
-      <p style="color: #8B949E;">Applying rigorous science to software engineering.</p>
     </td>
   </tr>
 </table>
