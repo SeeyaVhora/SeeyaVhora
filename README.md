@@ -40,8 +40,8 @@
       <p style="color: #8B949E;">Designing neural architectures and intelligent systems.</p>
     </td>
     <td align="center" width="50%" style="padding: 20px; border: 1px solid #30363D;">
-      <h3 style="color: #FF7B72;">🚀 Aerospace & Robotics</h3>
-      <p style="color: #8B949E;">Exploring robotics</p>
+      <h3 style="color: #FF7B72;">🚀 Exploring robotics</h3>
+      <p style="color: #8B949E;">Simulating physics and programming autonomous logic.</p>
     </td>
   </tr>
   <tr>
