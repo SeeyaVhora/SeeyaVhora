@@ -41,7 +41,7 @@
     </td>
     <td align="center" width="50%" style="padding: 20px; border: 1px solid #30363D;">
       <h3 style="color: #FF7B72;">🚀 Aerospace & Robotics</h3>
-      <p style="color: #8B949E;">Simulating physics and programming autonomous logic.</p>
+      <p style="color: #8B949E;">Exploring robotics</p>
     </td>
   </tr>
   <tr>
