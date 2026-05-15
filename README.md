@@ -29,6 +29,10 @@
   💡 Driven by the infinite possibilities of <strong>futuristic technology and innovation</strong>, I constantly seek to bridge the gap between theoretical science and practical software engineering.
 </p>
 
+<div align="center">
+  <img src="./assets/creative_vision.png" alt="Creative Vision - Telescope and Rocket" width="100%" style="border-radius: 12px; margin: 20px 0; border: 1px solid #30363D; box-shadow: 0 0 20px rgba(0, 240, 255, 0.2);" />
+</div>
+
 ---
 
 ### ⚡ **CURRENT FOCUS**
