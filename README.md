@@ -54,11 +54,7 @@
       <p style="color: #8B949E;">Architecting scalable and performant modern web apps.</p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding: 20px; border: 1px solid #30363D;">
-      <h3 style="color: #F2CC60;">🔬 Physics & Mathematical Concepts</h3>
-    </td>
-  </tr>
+
 </table>
 
 ---
