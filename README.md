@@ -107,44 +107,25 @@
 
 ### 🚀 **FEATURED PROJECTS**
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" style="border: 1px solid #30363D; padding: 20px;">
-      <h3 style="color: #00F0FF;">🌌 Project Horizon</h3>
-      <p style="color: #8B949E;">AI-driven pathfinding system for autonomous rovers simulating Martian terrain.</p>
-      <br>
-      <code>Python</code> <code>TensorFlow</code> <code>ROS</code>
-      <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" align="center" style="border: 1px solid #30363D; padding: 20px;">
-      <h3 style="color: #00F0FF;">⚛️ Quantum-Sim</h3>
-      <p style="color: #8B949E;">A robust physics simulation engine visualizing complex quantum states.</p>
-      <br>
-      <code>C++</code> <code>WebGL</code> <code>Math</code>
-      <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="border: 1px solid #30363D; padding: 20px;">
-      <h3 style="color: #00F0FF;">🛰️ Orbit UI</h3>
-      <p style="color: #8B949E;">Futuristic full-stack dashboard for visualizing real-time orbital mechanics data.</p>
-      <br>
-      <code>React</code> <code>Node.js</code> <code>Three.js</code>
-      <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" align="center" style="border: 1px solid #30363D; padding: 20px;">
-      <h3 style="color: #00F0FF;">🧠 Neural Core</h3>
-      <p style="color: #8B949E;">Advanced algorithmic trading bot powered by deep learning pattern recognition.</p>
-      <br>
-      <code>Python</code> <code>PostgreSQL</code> <code>AWS</code>
-      <br><br>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p style="color: #8B949E; font-family: 'Inter', sans-serif; font-style: italic;">
+    🚧 Systems initializing... New projects deploying soon. 🚧
+  </p>
+  <!-- Add your real projects here! Example structure:
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" style="border: 1px solid #30363D; padding: 20px;">
+        <h3 style="color: #00F0FF;">🌌 [Project Name]</h3>
+        <p style="color: #8B949E;">[Short Description]</p>
+        <br>
+        <code>Tech 1</code> <code>Tech 2</code>
+        <br><br>
+        <a href="#"><img src="https://img.shields.io/badge/GitHub-View_Code-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+  -->
+</div>
 
 ---
 
