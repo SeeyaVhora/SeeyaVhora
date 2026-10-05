@@ -1,12 +1,12 @@
 <div align="center">
   <!-- Glowing Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Seeya%20Vhora&fontSize=80&fontAlignY=35&desc=Turning%20ideas%20into%20intelligent%20systems&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Seeya%20Vhora&fontSize=80&fontAlignY=35&desc=Turning%20ideas%20into%20intelligent%20systems&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
   
   <!-- Typing SVG Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Turning+ideas+into+intelligent+systems;Where+code+meets+physics;Engineering+the+future+through+logic;Solving+problems+with+code,+maths,+and+creativity;Building+systems+inspired+by+science" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Turning+ideas+into+intelligent+systems;Where+code+meets+physics;Engineering+the+future+through+logic;Solving+problems+with+code,+maths,+and+creativity;Building+systems+inspired+by+science" alt="Typing Subtitle" />
 
   <br>
   <br>
@@ -114,7 +114,7 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center" style="border: 1px solid #30363D; padding: 20px;">
-        <h3 style="color: #00F0FF;">🌌 [Project Name]</h3>
+        <h3 style="color: #FF69B4;">🌌 [Project Name]</h3>
         <p style="color: #8B949E;">[Short Description]</p>
         <br>
         <code>Tech 1</code> <code>Tech 2</code>
@@ -131,7 +131,7 @@
 ### 📈 **MISSION ANALYTICS (SYSTEM PERFORMANCE)**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeeyaVhora&bg_color=0D1117&color=00F0FF&line=58A6FF&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeeyaVhora&bg_color=0D1117&color=FF69B4&line=FF1493&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
@@ -154,5 +154,5 @@
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width="100%" />
 </p>
