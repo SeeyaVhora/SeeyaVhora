@@ -1,14 +1,18 @@
 <div align="center">
-  <!-- Glowing Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header&text=Seeya%20Vhora&fontSize=80&fontAlignY=35&desc=Turning%20ideas%20into%20intelligent%20systems&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
+  <!-- Looping Pixel Space Animation Banner -->
+  <img src="assets/pixel_banner.gif" width="100%" alt="Pixel Space Animation Banner" />
 </div>
 
 <div align="center">
   
-  <!-- Typing SVG Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Turning+ideas+into+intelligent+systems;Where+code+meets+physics;Engineering+the+future+through+logic;Solving+problems+with+code,+maths,+and+creativity;Building+systems+inspired+by+science" alt="Typing Subtitle" />
+  <!-- Typing SVG Subtitle (Pixel Font) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Where+code+meets+physics;Turning+ideas+into+intelligent+systems;Engineering+the+future+through+logic;Solving+problems+with+code,+maths,+and+creativity;Building+systems+inspired+by+science" alt="Where code meets physics" />
 
   <br>
+
+  <!-- Name in Pixel Font (Simple & Aesthetically Pretty) -->
+  <img src="assets/seeya_vhora.svg" alt="Seeya Vhora" />
+
   <br>
   
   <!-- Creative Slogan -->
